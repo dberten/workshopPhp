@@ -11,5 +11,6 @@
         <h3><a href='ex2.php'>exercice 2</h3>
         <h3><a href='ex3.php'>exercice 3</h3>
         <h3><a href='ex4.php'>exercice 4</h3>
+        <h3><a href='ex5.php'>exercice 5</h3>
     </body>
 </html>

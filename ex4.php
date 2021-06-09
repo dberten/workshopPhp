@@ -31,5 +31,6 @@
             }
         ?>
         </center>
+        <footer><center><p><a href='ex5.php'>exercice 5</p></center></footer>
     </body>
 </html>
